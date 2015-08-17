@@ -80,13 +80,13 @@ sqlite> .import my_own_data.csv sorteo_sorteo
 
 This program is working great on my machine, so it should do the same on yours, if it doesn't you may start switching to Linux :D. Anyway there are tons of improvements to be done, so if you have made them and you want to share contribute with the humankind, don't hesitate to ask me commit access.
 
-Also if you have any comment or question, you can reach me at geek PEACE tedxcordoba.com.ar - replace PEACE by @.
+Also if you have any comment or question, you can reach me at rallende PEACE menttes.com - replace PEACE by @.
 
 Please don't use this software for warlike purposes. 
 
 
 # TEDx Sorteo Licence
-Copyright Some Rights Reserved (C) 2012 Roberto Allende - rallende@menttes.com -
+Copyright Some Rights Reserved (C) 2012 Roberto Allende 
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
