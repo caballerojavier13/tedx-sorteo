@@ -1,3 +1,5 @@
+# TEDx Sorteo
+
 When you begin a TEDx Conference organization, TED usually gives you a licence which restrict the number of attendees to 100 persons until you meet certain criterias.
 
 To select who assist to the conference many TEDxs allow people to subscribe to a list and then the 100 are chosen by random.
