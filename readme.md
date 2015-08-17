@@ -1,14 +1,16 @@
 # TEDx Sorteo
 
+A small and simple program to select 100 persons at random.
+
 When you begin a TEDx Conference organization, TED usually gives you a licence which restrict the number of attendees to 100 persons until you meet certain criterias.
 
 To select who assist to the conference many TEDxs allow people to subscribe to a list and then the 100 are chosen by random.
 
-# Requirements
+## Requirements
 
 This program was developed on a Asus PC with Linux (Ubuntu 12.04) with Python 2.7 and Django. If you match these, it will be easier to install and run. Otherwise you might need to read some Python and Django documentation to get it working.
 
-# Setup
+## Setup
 
  1. On a Linux console create a new virtual environment for Python running next commands:
 ```bash
@@ -45,13 +47,13 @@ $ python manage.py runserver
 
 # Customization and others
 
-# Custom Logo
+## Custom Logo
 If the program is running successfully you might want to customize the logo, to do this just replace the images at sorteo/static.
 
-# Admin console
+## Admin console
 Since this program is made with Django, you can use an admin console to load new data among other simple tasks. Just go to http://localhost:8000/admin user: admin, password: admin.
 
-# Custom Data
+## Custom Data
 In order to make easier test the program you downloaded an already populated database, you will need to add your own data. The simplest way to do that is to keep using sqlite3 and replace sorteo_sorteo table's data:
 
 ```bash
@@ -83,8 +85,7 @@ Also if you have any comment or question, you can reach me at geek PEACE tedxcor
 Please don't use this software for warlike purposes. 
 
 
-# Sorteo TEDx
-A small and simple program to select 100 persons at random.
+# TEDx Sorteo Licence
 Copyright Some Rights Reserved (C) 2012 Roberto Allende - rallende@menttes.com -
 
 This program is free software; you can redistribute it and/or
